@@ -1,10 +1,16 @@
 _repo: Histoire-de-la-peinture-en-Italie_48933
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48933-h/images/cover.jpg
 creator:
   author:
     agent_name: Beyle, Henri
     gutenberg_agent_id: '45047'
     url: http://www.gutenberg.org/2009/agents/45047
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48933#Histoire-de-la-peinture-en-Italie
 gutenberg_bookshelf: FR Peinture
 gutenberg_issued: '2015-05-11'
 gutenberg_type: Text
